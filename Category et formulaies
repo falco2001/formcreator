@@ -1,0 +1,4 @@
+* Pour avoir une page vierge dans la  page d'accueil des formulaires on commente dans formcreator/js/script.js.php la ligne 134 :
+<code>
+ //updateWizardFormsView(0);
+</code>
