@@ -1,0 +1,6 @@
+* Pour ne pas avoir le menu rechercher dans la page d'accueil on commente dans formcreator/inc/formclass.php les lignes 804:
+<code>
+//      echo '<div id="plugin_formcreator_searchBar">';
+//      $this->showSearchBar();
+//      echo '</div>';
+</code>
